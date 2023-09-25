@@ -2,7 +2,7 @@ package ejemplo;
 public class Principal{
 
 	public static void main(String[] args){
-		System.out.println("Hola a todos");
-		System.out.println("buenas noches");
+		System.out.println("Saludos");
+		int num=5;
  	}
  }
